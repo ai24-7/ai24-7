@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
 - 💻 Owner of [**AI 24-7**](https://github.com/ai24-7) github organization. Check it out for daily AI and Machine Learning contents.
-- 🤔 I’m currently reading [AI at the Edge]([(https://www.oreilly.com/library/view/ai-at-the/9781098120191/)]). Check it out if interested.
+- 🤔 I’m currently reading [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/). Check it out if interested.
 - 📫 How to reach me: info.safavi@gmail.com
 
 
