@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.safavi@gmail.com)
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
-- 💻 Owner of [**AI 24-7**](https://github.com/ai24-7) github organization. Check it out for daily Python and Machine Learning contents.
+- 💻 Owner of [**AI 24-7**](https://github.com/ai24-7) github organization. Check it out for daily AI and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 📫 How to reach me: info.safavi@gmail.com
 
