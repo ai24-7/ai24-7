@@ -18,6 +18,7 @@
 - Deep Learning
 - Natural Language Processing
 - Time Series Forecasting
+- Reinforcement Learning
 - Econometrics
 ### ⚙️ Tech Stack
 
