@@ -31,4 +31,4 @@
 
 
 ---
-:zap: To see my full CV, checkout [MY CV](https://github.com/ai24-7/ai24-7/blob/main/MY%20CV).
+:zap: To see my full CV, checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/MY%20CV).
