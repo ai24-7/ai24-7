@@ -32,5 +32,4 @@
 
 ---
 :zap: To see my CV, please checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/MY%20CV).
-:zap: To see my cover letter, please checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/MY%20CL).
 
