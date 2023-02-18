@@ -31,5 +31,5 @@
 
 
 ---
-:zap: To see my cover letter and resume, please checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/resume%20).
+:zap: To see my cover letter and resume, please checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/resume).
 
