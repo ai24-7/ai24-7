@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.safavi@gmail.com)
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
-- 💻 Owner of [**AI 24-7**](https://github.com/ai24-7) github organization. 
 - 🤔 I’m currently reading [Engineering MLOps](https://www.oreilly.com/library/view/engineering-mlops/9781800562882/). Check it out if interested.
 - 📫 How to reach me: info.safavi@gmail.com
 
