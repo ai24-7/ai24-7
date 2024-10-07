@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.safavi@gmail.com)
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
-- 🤔 I’m currently reading [Engineering MLOps](https://www.oreilly.com/library/view/engineering-mlops/9781800562882/). Check it out if interested.
+- 🤔 I’m currently reading [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/ref=asc_df_1847941109/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=18440449037039802286&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014967&hvtargid=pla-2281435178618&psc=1&mcid=5248a4d9b2993967b1992c9cf6627b8e&hvocijid=18440449037039802286-1847941109-&hvexpln=73). Check it out if interested.
 - 📫 How to reach me: info.safavi@gmail.com
 
 
