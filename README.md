@@ -13,12 +13,13 @@
 
 ### 🖥 Skills
 
+- Linear and Non-linear Optimization
+- Probability and Statistics
 - Machine Learning
 - Deep Learning
-- Natural Language Processing
 - Time Series Forecasting
-- Reinforcement Learning
 - Econometrics
+  
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Helm-05122A?style=flat-square&logo=Helm&color=353535) ![Bootstrap](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=Mlflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Airflow-05122A?style=flat-square&logo=ApacheAirflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spark-05122A?style=flat-square&logo=ApacheSpark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Hadoop-05122A?style=flat-square&logo=ApacheHadoop&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Plotly-05122A?style=flat-square&logo=Plotly&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=flat-square&logo=Gitlab&color=353535) ![Bootstrap](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=Streamlit&color=353535) ![Bootstrap](https://img.shields.io/badge/-Prometheus-05122A?style=flat-square&logo=Prometheus&color=353535) ![Bootstrap](https://img.shields.io/badge/-Grafana-05122A?style=flat-square&logo=Grafana&color=353535)
@@ -30,5 +31,5 @@
 
 
 ---
-:zap: To see my cover letter and resume, please checkout [Here](https://github.com/ai24-7/ai24-7/blob/main/resume).
+:zap: To see my cover letter and resume, please send me a message in linkedin or github.
 
