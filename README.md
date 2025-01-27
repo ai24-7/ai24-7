@@ -13,12 +13,9 @@
 
 ### 🖥 Skills
 
-- Linear and Non-linear Optimization
-- Probability and Statistics
 - Machine Learning
 - Deep Learning
 - Time Series Forecasting
-- Econometrics
   
 ### ⚙️ Tech Stack
 
