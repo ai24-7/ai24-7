@@ -14,7 +14,7 @@
 ### 🖥 Skills
 
 - Machine Learning
-- Deep Learning
+- NLP
 - Time Series Forecasting
 
 
