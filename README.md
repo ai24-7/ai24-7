@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.safavi@gmail.com)
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
-- 🤔 I’m currently reading [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/ref=asc_df_1847941109/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=18440449037039802286&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014967&hvtargid=pla-2281435178618&psc=1&mcid=5248a4d9b2993967b1992c9cf6627b8e&hvocijid=18440449037039802286-1847941109-&hvexpln=73). Check it out if interested.
+- 🤔 I’m currently reading [Machine Learning Engineering In Action](https://www.amazon.com/Machine-Learning-Engineering-Action-Wilson/dp/1617298719/ref=sr_1_1?crid=1LJ6NB2D31KCW&dib=eyJ2IjoiMSJ9.Iku1ly95FVylRrHrG83sQ7xWUYxHTLBiG9XibjINEe8n_9ofC1e0AP9UjmHXEZpOrSG7kRRxxcG1R0BuqWZP-ub4lb9WruqvdS4IGdPvPgo44CDKFM-rBprhUnNxzrpYTYH0w85hIkjoboBIi-72WwF1siw-BJhW2y0YgP0Df0lzyTTMbturVq_jl64j5Qb3qMZVKUIeZ5fOaTcOT-7OLGKelAwhMU9ni-sqCwXOW9E.-jebW0wbgEHQ7q8bwfSFlcUUX2Oss6j-M_2BvD-Pdr0&dib_tag=se&keywords=machine+learning+engineering+in+action&qid=1742844041&s=books&sprefix=machine+learning+engineering+in+action%2Cstripbooks%2C90&sr=1-1). Check it out if interested.
 - 📫 How to reach me: info.safavi@gmail.com
 
 
