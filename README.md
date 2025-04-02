@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/ai24-7?label=Follow&style=social)](https://github.com/ai24-7)
 
 - 🤔 I’m currently reading [Machine Learning Engineering In Action](https://www.amazon.com/Machine-Learning-Engineering-Action-Wilson/dp/1617298719/ref=sr_1_1?crid=1LJ6NB2D31KCW&dib=eyJ2IjoiMSJ9.Iku1ly95FVylRrHrG83sQ7xWUYxHTLBiG9XibjINEe8n_9ofC1e0AP9UjmHXEZpOrSG7kRRxxcG1R0BuqWZP-ub4lb9WruqvdS4IGdPvPgo44CDKFM-rBprhUnNxzrpYTYH0w85hIkjoboBIi-72WwF1siw-BJhW2y0YgP0Df0lzyTTMbturVq_jl64j5Qb3qMZVKUIeZ5fOaTcOT-7OLGKelAwhMU9ni-sqCwXOW9E.-jebW0wbgEHQ7q8bwfSFlcUUX2Oss6j-M_2BvD-Pdr0&dib_tag=se&keywords=machine+learning+engineering+in+action&qid=1742844041&s=books&sprefix=machine+learning+engineering+in+action%2Cstripbooks%2C90&sr=1-1). Check it out if interested.
-- 📫 How to reach me: info.safavi@gmail.com
+- 📫 How to reach me: dan@ai24-7.org
 
 
 ### 🖥 Skills
