@@ -13,8 +13,9 @@
 
 ### 🖥 Skills
 
+- Linear & Non-linear Optimization
 - Machine Learning
-- NLP
+- Agentic AI
 - Time Series Forecasting
 
 
